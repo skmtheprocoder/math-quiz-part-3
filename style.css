@@ -1,0 +1,21 @@
+img {
+    width: 400px;
+    height: 400px;
+}
+
+#player1_heading {
+    color:mediumturquoise;
+    font-style: italic;
+    font-size: 50px;
+}
+
+#player2_heading {
+    color:mediumturquoise;
+    font-style: italic;
+    font-size: 50px;
+}
+
+
+.body_background{
+    background-color: violet;
+}

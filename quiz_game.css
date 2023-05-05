@@ -1,0 +1,13 @@
+#output
+{
+    background:white;
+    border-radius: 10px;
+    border-top: 10px solid;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+body{
+    background-color: royalblue;
+}
